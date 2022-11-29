@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Madison Square Market</title>
+    <link
+      rel="stylesheet"
+      href="https://content.codecademy.com/projects/bootstrap.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h1>Madison Square Market</h1>
+          </div>
+          <div class="pull-right">
+            <ul>
+              <li class="dropdown" id="cart">
+                <h3>Cart &#x25BE;</h3>
+                <ul class="dropdown-menu" id="cartMenu">
+                  <li>View Cart</li>
+                  <li>Saved Carts</li>
+                </ul>
+              </li>
+
+              <li class="dropdown" id="account">
+                <h3>Account &#x25BE;</h3>
+                <ul class="dropdown-menu" id="accountMenu">
+                  <li>View Account</li>
+                  <li>Check Order Status</li>
+                  <li>Sign in</li>
+                </ul>
+              </li>
+
+              <li class="dropdown" id="help">
+                <h3>Help &#x25BE;</h3>
+                <ul class="dropdown-menu" id="helpMenu">
+                  <li>FAQs</li>
+                  <li>Return Policy</li>
+                  <li>Shipping Info</li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="main"></div>
+    <div class="footer"></div>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.min.js"
+      integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
