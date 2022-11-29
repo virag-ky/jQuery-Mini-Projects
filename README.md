@@ -13,6 +13,13 @@
 - JavaScript
 - jQuery
 
+## Mini-projects
+* ### Madison Square Market:
+   - click event on the dropdown elements, the dropdown menu appears
+   - on mouseleave event the dropdown menu disappears
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79658534/204545918-9e209fc7-7eb9-4889-9186-1a730c384595.gif)
+
 ## Acknowledgements
 
 ### Images:
