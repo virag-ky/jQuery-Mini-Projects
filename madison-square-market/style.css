@@ -5,6 +5,8 @@ html, body {
 
 body {
   font-family: 'Montserrat', sans-serif;
+  height: 100vh;
+  background: #b64f35;
 }
 
 .container {
@@ -15,7 +17,6 @@ body {
 /* Header */
 .header {
   padding: 45px 0;
-  background-color: #0074ff;
 }
 
 .header ul {
@@ -73,7 +74,6 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #0074ff;
   padding: 20px 0;
   height: 200px;
 }
