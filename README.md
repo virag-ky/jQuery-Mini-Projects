@@ -20,6 +20,11 @@
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79658534/204545918-9e209fc7-7eb9-4889-9186-1a730c384595.gif)
 
+* ### Trivia Card:
+   - use jQuery effects to make the card interactive (slideToggle(), fadeOut(), hide(), show())
+   
+![chrome-capture-2022-10-29 (1)](https://user-images.githubusercontent.com/79658534/204587881-762de15a-85c7-4f9a-b0ec-b12e8319ea7a.gif)
+
 ## Acknowledgements
 
 ### Images:
