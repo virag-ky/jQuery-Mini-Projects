@@ -25,6 +25,11 @@
    
 ![chrome-capture-2022-10-29 (1)](https://user-images.githubusercontent.com/79658534/204587881-762de15a-85c7-4f9a-b0ec-b12e8319ea7a.gif)
 
+* ### Feedster:
+   - using events to interact with the app (mouseenter, mouseleave, addClass(), removeClass(), focus(), keyup)
+   
+![chrome-capture-2022-10-29 (2)](https://user-images.githubusercontent.com/79658534/204620739-239d15ad-5fe3-4406-b47a-37d39a15a44f.gif)
+
 ## Acknowledgements
 
 ### Images:
