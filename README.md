@@ -30,6 +30,11 @@
    
 ![chrome-capture-2022-10-29 (2)](https://user-images.githubusercontent.com/79658534/204620739-239d15ad-5fe3-4406-b47a-37d39a15a44f.gif)
 
+- ### Web Safe Font Preview:
+   - when an event is fired the text css font properties changes
+   
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79658534/204777538-850e9ca8-bd09-4598-850c-ee3d4b5e5e47.gif)
+
 ## Acknowledgements
 
 ### Images:
