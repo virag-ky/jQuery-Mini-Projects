@@ -35,8 +35,13 @@
    
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79658534/204777538-850e9ca8-bd09-4598-850c-ee3d4b5e5e47.gif)
 
+- ### Gameboard:
+   - adding jQuery functionality by traversing the DOM with the siblings() and next() methods
+   
+![chrome-capture-2022-10-30](https://user-images.githubusercontent.com/79658534/204785087-adab2315-d7c7-42ae-9413-15fc501f48ca.gif)
+
 ## Acknowledgements
 
-### Images:
+### Market image:
 
 - Photo by <a href="https://unsplash.com/@somijaiswal_fotografia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Somi Jaiswal</a> on <a href="https://unsplash.com/s/photos/market?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
